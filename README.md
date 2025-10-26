@@ -2,5 +2,5 @@ This is Interactive Sales dashboard of a chocolate company,demonstrating KPIs,DA
 
 Dashboard
 
-![Sales Dashboard]([Sales Dashboard SS.png](https://github.com/Apekshamarutip1/Sales-Dashboard/blob/main/Sales%20Dashboard%20SS.png))
+![Sales Dashboard](Sales Dashboard SS.png)
 
