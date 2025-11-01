@@ -1,4 +1,5 @@
 This is Interactive Sales dashboard of a chocolate company,demonstrating KPIs,DAX,Modelling,Measures,Visuals,Charts,Bookmarks,Tooltips
 
 
-<img width="2006" height="1240" alt="Sales Dashboard SS" src="https://github.com/user-attachments/assets/739e5766-1ab4-42cd-b3b4-c94879bd1837" />
+
+<img width="2002" height="1222" alt="sales updated" src="https://github.com/user-attachments/assets/100c73f7-e0e5-460c-9473-1c69f987bc90" />
